@@ -1,5 +1,6 @@
+<img width="1440" alt="Screen Shot 2022-01-02 at 10 36 49 AM" src="https://user-images.githubusercontent.com/95125800/147860674-95f258cf-11ed-4d52-86f3-bf48eaed062b.png">
 
-<img width="1440" alt="Screen Shot 2022-01-01 at 11 27 22 PM" src="https://user-images.githubusercontent.com/95125800/147848640-4c025833-3c52-4c5c-86be-68c47dd1eeee.png">
+<!-- <img width="1440" alt="Screen Shot 2022-01-01 at 11 27 22 PM" src="https://user-images.githubusercontent.com/95125800/147848640-4c025833-3c52-4c5c-86be-68c47dd1eeee.png"> -->
 
 ### Hi there, I'm Henry - 👋 
 ### From New Zealand!
